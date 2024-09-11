@@ -124,7 +124,7 @@ const Home = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-blue-100 to-purple-100 p-8">
-      <h1 className="text-4xl font-bold text-center text-purple-800 mb-8">Diccionario de Reglas Ortográficas</h1>
+      <h1 className="text-4xl font-bold text-center text-purple-800 mb-8">Diccionario de Reglas Ortográficas. Hecho por: Juan Pablo García Villa</h1>
       <div className="grid md:grid-cols-2 gap-6">
         <motion.div 
           initial={{ opacity: 0, y: 50 }}
